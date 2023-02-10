@@ -19,6 +19,7 @@ Here are some ideas to get you started:
  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lukkelele&hide=html,css&theme=onedark&langs_count=5">
 </a>
+<!-- [![lukas coding stats](https://github-readme-stats.vercel.app/api/wakatime?username=lukkelele)](https://github.com/anuraghazra/github-readme-stats) -->
 
 <!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lukkelele&hide=html,css&theme=material-palenight&langs_count=5&card_width=416&layout=compact)](https://github.com/anuraghazra/github-readme-stats) -->
