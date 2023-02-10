@@ -15,9 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <a href="https://github.com/Lukkelele/github-readme-stats">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=Lukkelele&count_private=true&show_icons=true&theme=material-palenight&custom_title=Lukkeleles%20Statistics&include_all_commits=true&line_height=32">
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=Lukkelele&count_private=true&show_icons=true&theme=material-palenight&custom_title=Lukkeleles%20Statistics&include_all_commits=true&line_height=32">
  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lukkelele&hide=html,css&theme=material-palenight&langs_count=5&card_width=416&line_height=24">
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lukkelele&hide=html,css&theme=material-palenight&langs_count=5&card_width=416&line_height=24">
 </a>
 
 <!--
