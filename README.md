@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 <a href="https://github.com/Lukkelele/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Lukkelele&count_private=true&show_icons=true&theme=onedark&custom_title=Lukas%20Statistics&card_width=440&include_all_commits=true&line_height=32">
-   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lukkelele&hide=html,css&theme=onedark&langs_count=5">
  </a>
  
