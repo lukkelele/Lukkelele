@@ -15,11 +15,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <a href="https://github.com/Lukkelele/github-readme-stats">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=Lukkelele&count_private=true&show_icons=true&theme=onedark&custom_title=lukas%20statistics&card_width=440&include_all_commits=true&line_height=32">
- &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lukkelele&hide=html,css&theme=onedark&langs_count=5">
-</a>
-<!-- [![lukas coding stats](https://github-readme-stats.vercel.app/api/wakatime?username=lukkelele)](https://github.com/anuraghazra/github-readme-stats) -->
-
-<!--
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lukkelele&hide=html,css&theme=material-palenight&langs_count=5&card_width=416&layout=compact)](https://github.com/anuraghazra/github-readme-stats) -->
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Lukkelele&count_private=true&show_icons=true&theme=onedark&custom_title=Lukas%20Statistics&card_width=440&include_all_commits=true&line_height=32">
+   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lukkelele&hide=html,css&theme=onedark&langs_count=5">
+ </a>
+ 
+ <a href="https://github.com/Lukkelele/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=lukkelele&theme=onedark&custom_title=Time%20spent&card_width=340">
+ </a>
