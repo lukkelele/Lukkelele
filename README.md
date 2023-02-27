@@ -19,6 +19,9 @@ Here are some ideas to get you started:
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lukkelele&hide=html,css&theme=discord_old_blurple&langs_count=5">
  </a>
  
+ <!--
  <a href="https://github.com/Lukkelele/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=lukkelele&theme=discord_old_blurple&custom_title=Weekly%20report&card_width=340">
  </a>
+
+-->
