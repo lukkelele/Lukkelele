@@ -19,8 +19,8 @@ Here are some ideas to get you started:
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lukkelele&hide=html,css,cmake,objective-c,javascript,Objective-Cpp,objective-Cpp&theme=discord_old_blurple&langs_count=5">
 </a> 
   
- [![Readme Card](https://github-readme-stats.vercel.app/api/pin?username=lukkelele&show_owner=true&theme=discord_old_blurple&repo=LkEngine)](https://github.com/lukkelele/github-readme-stats)
- [![Readme Card](https://github-readme-stats.vercel.app/api/pin?username=lukkelele&show_owner=true&theme=discord_old_blurple&repo=LkGui)](https://github.com/lukkelele/github-readme-stats)
+ [![Readme Card](https://github-readme-stats.vercel.app/api/pin?username=lukkelele&show_owner=true&theme=discord_old_blurple&repo=LkEngine)](https://github.com/lukkelele/LkEngine)
+ [![Readme Card](https://github-readme-stats.vercel.app/api/pin?username=lukkelele&show_owner=true&theme=discord_old_blurple&repo=LkGui)](https://github.com/lukkelele/LkGui)
 
 <!--  [![Readme Card](https://github-readme-stats.vercel.app/api/pin?username=lukkelele&show_owner=true&repo=LkEngine)](https://github.com/lukkelele/github-readme-stats) -->
 
