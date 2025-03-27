@@ -1,5 +1,3 @@
-<!-- ### Hi there 👋 -->
-
 <p align="center">
   <a href="https://github.com/Lukkelele/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api?username=lukkelele&count_private=true&show_icons=true&theme=calm&custom_title=lukkeleles%20stats&card_width=440&line_height=34">
