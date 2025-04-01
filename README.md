@@ -6,17 +6,8 @@
 </p>
 -->
 
- <!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin?username=lukkelele&show_owner=true&theme=discord_old_blurple&repo=LkEngine)](https://github.com/lukkelele/LkEngine) -->
 <!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin?username=lukkelele&show_owner=true&theme=gruvbox&repo=LkEngine)](https://github.com/lukkelele/LkEngine) -->
  [![Readme Card](https://github-readme-stats.vercel.app/api/pin?username=lukkelele&show_owner=true&theme=calm&repo=LkEngine)](https://github.com/lukkelele/LkEngine)
  [![Readme Card](https://github-readme-stats.vercel.app/api/pin?username=lukkelele&show_owner=true&theme=calm&repo=L)](https://github.com/lukkelele/L)
  [![Readme Card](https://github-readme-stats.vercel.app/api/pin?username=lukkelele&show_owner=true&theme=calm&repo=LTesto)](https://github.com/lukkelele/LTesto)
  [![Readme Card](https://github-readme-stats.vercel.app/api/pin?username=lukkelele&show_owner=true&theme=calm&repo=louise)](https://github.com/lukkelele/louise)
- 
- <!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin?username=lukkelele&show_owner=true&theme=calm&repo=LkGui)](https://github.com/lukkelele/LkGui) -->
- <!--
- <a href="https://github.com/Lukkelele/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=lukkelele&theme=discord_old_blurple&custom_title=Weekly%20report&card_width=340">
- </a>
-
--->
