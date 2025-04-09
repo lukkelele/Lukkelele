@@ -1,4 +1,5 @@
 <!--START_SECTION:badges-->
+[![Zephyr Technical Contributor](https://images.credly.com/size/80x80/images/a77b7f85-70b0-42ab-9519-67ee509fbc0c/image.png)](http://www.credly.com/badges/c3ffae46-c33b-45c7-abf2-052ce8ef9e9c "Zephyr Technical Contributor")
 <!--END_SECTION:badges-->
 
 <!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin?username=lukkelele&show_owner=true&theme=gruvbox&repo=LkEngine)](https://github.com/lukkelele/LkEngine) -->

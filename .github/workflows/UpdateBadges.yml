@@ -14,5 +14,5 @@ jobs:
         uses: pemtajo/badge-readme@main
         with:       
           CREDLY_USER: lukas-gunnarsson
-          BADGE_SIZE: 60
+          BADGE_SIZE: 70x70
           COMMIT_MESSAGE: "Update badges"
